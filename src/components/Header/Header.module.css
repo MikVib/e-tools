@@ -1,0 +1,5 @@
+.icon:hover {
+    background-color: gray;
+    border-radius: 50%;
+    transition: border-radius 0.9s ease;
+}
